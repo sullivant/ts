@@ -1,0 +1,9 @@
+[package]
+name = "ts"
+version = "0.1.0"
+authors = ["Thomas Sullivan <thomas.l.sullivan@vumc.org>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+regex = "1"
